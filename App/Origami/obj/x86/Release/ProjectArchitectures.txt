@@ -1,0 +1,4 @@
+C:\Code\UnityProjects\HoloLensProjects\HoloWorld\App\Origami\Origami.csproj;x86
+C:\Code\UnityProjects\HoloLensProjects\HoloWorld\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Code\UnityProjects\HoloLensProjects\HoloWorld\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Code\UnityProjects\HoloLensProjects\HoloWorld\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
